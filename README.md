@@ -52,9 +52,15 @@ I aim to develop tools and models that map the solution space — not just maxim
 
 Feel free to reach out or follow my work:
 
-- 📧 arthur.maffre@umontreal.ca  
+- 📧 [maffrearthur@gmail.com](mailto:maffrearthur@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/arthurmaffre/)  
 - 🌐 [Coming soon] Personal website
+
+---
+
+## 📄 My CV
+
+- 🧾 [Download PDF version](https://github.com/arthurmaffre/CV/raw/main/rendercv_output/Arthur_Maffre_CV.pdf)
 
 ---
 
