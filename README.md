@@ -61,6 +61,7 @@ Feel free to reach out or follow my work:
 ## 📄 My CV
 
 - 🧾 [Download PDF version](https://github.com/arthurmaffre/CV/raw/main/rendercv_output/Arthur_Maffre_CV.pdf)
+- 📂 [View full CV repository on GitHub](https://github.com/arthurmaffre/CV)
 
 ---
 
