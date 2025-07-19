@@ -6,7 +6,7 @@ Welcome to my personal GitHub repository! This space serves as a central hub for
 
 ## 🔍 About Me
 
-I’m Arthur Maffre — a research master’s student at **Mila** and **Université de Montréal**, supervised by [**Margarida Carvalho**](https://github.com/mxmmargarida). I come from a background in economics, where I developed a deep interest in analytical thinking and the logic of decision-making under uncertainty. For me, rationality isn’t about rigidity — it’s about understanding the world in a way that respects individual choices and freedoms. I enjoy engaging in open discussions that challenge ideas and reveal why, behind seemingly abstract models, economics is ultimately about people, choices, and trade-offs. Today, my research bridges **Generative Flow Networks (GFlowNets)**, **bilevel optimization**, and **dynamic portfolio management**, with a focus on making machine learning models more interpretable and decision-oriented.
+I’m Arthur Maffre. I come from a background in economics, where I developed a deep interest in analytical thinking and the logic of decision-making under uncertainty. For me, rationality isn’t about rigidity — it’s about understanding the world in a way that respects individual choices and freedoms. I enjoy engaging in open discussions that challenge ideas and reveal why, behind seemingly abstract models, economics is ultimately about people, choices, and trade-offs. Today, my research bridges **Generative Flow Networks (GFlowNets)**, **bilevel optimization**, and **dynamic portfolio management**, with a focus on making machine learning models more interpretable and decision-oriented.
 
 I’m passionate about:
 - 🧠 AI for structured decision-making
