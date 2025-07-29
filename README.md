@@ -34,13 +34,12 @@ This repository includes:
 
 | Project                                                                                                                                           | Description                                                                                                                           |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| [`GFlowNet-LLM-Bayes`](https://github.com/arthurmaffre/GFlowNet_LLM_Bayes)                                                                        | The core thesis: true AI is not just next-token prediction, it’s **structured belief revision under uncertainty**. This project frames an adversarial game where a GFlowNet generates sequences that break Bayesian consistency, forcing the LLM to restore coherence. The aim: an LLM that internalizes causal schemas and updates beliefs like a true Bayesian reasoner. |
 | [`GFlowNet–Bilevel–Knapsack`](https://github.com/arthurmaffre/GFlowNet-Bilevel-Knapsack)                                                         | Uses a GFlowNet with critic to estimate Z and accelerate solving a bilevel knapsack problem with Benders cuts.                       |
 | [`GFlowNet-Knapsack-CDF`](https://github.com/arthurmaffre/GFlowNet-Knapsack-CDF)                                                                 | A GFlowNet that learns probabilistic solutions to the 0‑1 Knapsack problem, enabling efficient global optimization.                  |
 | `Transformer-Portfolio`                                                                                                                           | Transformer-powered GFlowNet generating sequences of portfolio allocations with Sharpe ratio optimization.                           |
 | `BayesianAxioms-GFN`                                                                                                                              | GFlowNet-based inference of rational choice axioms within a Bayesian structure learning framework.                                    |
 | `streamlit-dashboards`                                                                                                                            | Elegant and interactive visualizations used for hackathons and research presentations.                                               |
-
----
 
 ## 🚀 Entrepreneurial Projects
 
