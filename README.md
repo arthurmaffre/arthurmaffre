@@ -15,6 +15,7 @@ I’m passionate about:
 - 🧮 Mathematical modeling in complex systems
 - 🚀 Long-term vision: impactful research and real-world applications
 
+
 ---
 
 ## 📁 What You'll Find Here
