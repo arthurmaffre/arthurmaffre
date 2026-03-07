@@ -1,99 +1,47 @@
-# 👋 Arthur Maffre
+# Arthur Maffre
 
-Welcome to my personal GitHub repository! This space serves as a central hub for my research, prototypes, and creative explorations across **AI, economics, optimization, and systems design**.
-
----
-
-## 🔍 About Me
-
-I’m Arthur Maffre. I come from a background in economics, where I developed a deep interest in analytical thinking and the logic of decision-making under uncertainty. For me, rationality isn’t about rigidity — it’s about understanding the world in a way that respects individual choices and freedoms. I enjoy engaging in open discussions that challenge ideas and reveal why, behind seemingly abstract models, economics is ultimately about people, choices, and trade-offs. Today, my research bridges **Generative Flow Networks (GFlowNets)**, **bilevel optimization**, and **dynamic portfolio management**, with a focus on making machine learning models more interpretable and decision-oriented.
-
-I’m passionate about:
-- 🧠 AI for structured decision-making
-- 📈 Quantitative finance & portfolio generation
-- 🧩 Game theory & economic optimization
-- 🧮 Mathematical modeling in complex systems
-- 🚀 Long-term vision: impactful research and real-world applications
-
+Welcome to my GitHub. This repository is a central hub for my research and projects in **machine learning**, **generative flow networks**, and **computer science**.
 
 ---
 
-## 📁 What You'll Find Here
+## About Me
 
-This repository includes:
-- 📜 High-level project descriptions and links to submodules
-- 🧪 Research notebooks and proof-of-concept implementations
-- 🧠 Drafts, visualizations, and experimental insights
-- 🛠️ Utilities, snippets, and productivity tools
-- 🌱 Evolving frameworks around GFlowNet optimization and simulation
+I'm a researcher focused on **Generative Flow Networks (GFlowNets)** and their applications to combinatorial optimization, causal inference, and structured decision-making. My work sits at the intersection of probabilistic modeling, deep learning, and algorithm design.
 
-> Projects here are often in active development — many are stepping stones toward publishable work or larger initiatives.
+My current interests include:
 
----
-
-## 🔗 Key Projects
-
-| Project                                                                                                                                           | Description                                                                                                                           |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| [`GFlowNet-LLM-Bayes`](https://github.com/arthurmaffre/GFlowNet_LLM_Bayes)                                                                        | The core thesis: true AI is not just next-token prediction, it’s **structured belief revision under uncertainty**. This project frames an adversarial game where a GFlowNet generates sequences that break Bayesian consistency, forcing the LLM to restore coherence. The aim: an LLM that internalizes causal schemas and updates beliefs like a true Bayesian reasoner. |
-| [`GFlowNet–Bilevel–Knapsack`](https://github.com/arthurmaffre/GFlowNet-Bilevel-Knapsack)                                                         | Uses a GFlowNet with critic to estimate Z and accelerate solving a bilevel knapsack problem with Benders cuts.                       |
-| [`GFlowNet-Knapsack-CDF`](https://github.com/arthurmaffre/GFlowNet-Knapsack-CDF)                                                                 | A GFlowNet that learns probabilistic solutions to the 0‑1 Knapsack problem, enabling efficient global optimization.                  |
-| `Transformer-Portfolio`                                                                                                                           | Transformer-powered GFlowNet generating sequences of portfolio allocations with Sharpe ratio optimization.                           |
-| `BayesianAxioms-GFN`                                                                                                                              | GFlowNet-based inference of rational choice axioms within a Bayesian structure learning framework.                                    |
-| `streamlit-dashboards`                                                                                                                            | Elegant and interactive visualizations used for hackathons and research presentations.                                               |
-
-## 🚀 Entrepreneurial Projects
-
-| Project           | Description                                                                                                                                                                  |
-|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [`RMBP-finance`](https://github.com/arthurmaffre/RMBP_finance)   | A project to democratize access to advanced AI-driven investing — with just two simple sliders (risk and ESG preferences), anyone can align their portfolio with both financial goals and personal values. |
+- Generative Flow Networks and their theoretical foundations
+- Causal inference and dynamic equilibrium models
+- Combinatorial optimization with learned samplers
+- Diffusion models and generative modeling
 
 ---
 
-## 🧠 Vision
+## Key Projects
 
-I aim to develop tools and models that map the solution space — not just maximize a function. My goal is to build **interpretable**, **robust**, and **scalable** solutions to problems where economics, AI, and complexity intersect.
-
----
-
-## 🎯 My Research Levels System
-
-To organize my ideas and research projects, I use a **5-level system** that helps track progress from early exploration to polished work:
-
-| Level | Description                                   |
-|-------|---------------------------------------------|
-| 1     | 🌱 Idea stage — rough notes, spontaneous insights, and unstructured thoughts. |
-| 2     | 🧪 Exploratory phase — initial experiments, toy models, and feasibility checks. |
-| 3     | 🔧 Prototyping — focused implementations, small-scale validation, and initial write-ups. |
-| 4     | 📈 Refinement — robust models, formal results, and preparation for dissemination (talks, reports). |
-| 5     | 🚀 Publication-ready — polished papers, arXiv submissions, or open-source releases. |
-
-This system helps me prioritize, iterate, and communicate progress effectively across projects.
+| Project | Description |
+|---------|-------------|
+| [`LUCIDE`](https://github.com/arthurmaffre/LUCIDE) | Latent Unified Causal Inference through Dynamic Equilibrium — a GFlowNet-based framework for causal structure learning and Bayesian belief revision. |
+| [`GFlowNet-Bilevel-Knapsack`](https://github.com/arthurmaffre/GFlowNet-Bilevel-Knapsack) | GFlowNet with critic for partition function estimation, applied to bilevel knapsack problems with Benders decomposition. |
+| [`GFlowNet-Knapsack-CDF`](https://github.com/arthurmaffre/GFlowNet-Knapsack-CDF) | A GFlowNet that learns probabilistic solutions to the 0-1 Knapsack problem, enabling efficient global optimization via learned CDFs. |
+| [`Diffusion-l1`](https://github.com/arthurmaffre/Diffusion-l1) | Exploration of diffusion models — implementation and experiments with denoising-based generative processes. |
 
 ---
 
-## 📫 Contact
+## Contact
 
-Feel free to reach out or follow my work:
-
-- 📧 [maffrearthur@gmail.com](mailto:maffrearthur@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/arthur-maffre/)
-- 🌐 [Coming soon] Personal website
+- [maffrearthur@gmail.com](mailto:maffrearthur@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/arthur-maffre/)
 
 ---
 
-## 📄 My CV
+## CV
 
-- 🧾 [Download PDF version](https://github.com/arthurmaffre/CV/raw/main/rendercv_output/Arthur_Maffre_CV.pdf)
-- 📂 [View full CV repository on GitHub](https://github.com/arthurmaffre/CV)
+- [Download PDF](https://github.com/arthurmaffre/CV/raw/main/rendercv_output/Arthur_Maffre_CV.pdf)
+- [View CV repository](https://github.com/arthurmaffre/CV)
 
 ---
 
-## 📜 License
+## License
 
 All content in this repository is shared under the MIT License, unless otherwise specified.
-
----
-
-> “Build to explore. Explore to understand. Understand to transform.”  
-> *— Arthur*
